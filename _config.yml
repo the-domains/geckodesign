@@ -2,6 +2,7 @@ name: Geckodesign
 favicon: null
 layout_spectrum: 0.09405682375654578
 typography_spectrum: 0.9955484578385949
+title: Gecko.design
 cta:
   domain: null
   bucket: null
