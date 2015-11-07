@@ -1,0 +1,23 @@
+name: Geckodesign
+favicon: null
+layout_spectrum: 0.09405682375654578
+typography_spectrum: 0.9955484578385949
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4414525593165308
+  lightness: 0.7046037397813052
+  saturation: 0.10539631289429963
+  rhythmicContrast: 0.056924196891486645
+purpose: []
