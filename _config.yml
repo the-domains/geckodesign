@@ -1,41 +1,41 @@
-name: Geckodesign
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.03846
 title: Gecko.design
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.6487455
+  brandStrength: 1
+  lightness: 0.3637993
   brandColors:
     - '#FFFFFF'
     - '#939498'
     - '#030202'
     - '#ABCF38'
     - '#FAF102'
-  brandStrength: 1
-  lightness: 0.375
-  saturation: 0.6875
   rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Geckodesign
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.6075269
+layout_spectrum: 1
